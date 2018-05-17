@@ -1,0 +1,7 @@
+Question: What is an Address in memory?
+Wrong answeer: A number
+Correct answer: An address is an unique number from zero to the size of RAM less 1 unit
+
+Question: What is the difference between C and Assembley Languages?
+Wrong answer: Program Assembly Language by C
+Correct answer: Assembley Language is readable versions of native machine languages. It's low-level language. C is high-level procedural language.
